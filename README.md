@@ -1,27 +1,12 @@
 # AngularTourOfHeroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
+Aplicación de Angular hecha leyendo la documentación oficial de: https://angular.io/
 
-## Development server
+La aplicación nos permite agregar, editar, buscar y borrar "heroes" de nuestra lista.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Link del proyecto: https://cesaralvrz.github.io/Tour-of-Heroes-Angular/dashboard
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Screenshot1](https://github.com/cesaralvrz/AngularPlayground/blob/main/SS/ss1.png)
+![Screenshot2](https://github.com/cesaralvrz/AngularPlayground/blob/main/SS/ss2.png)
