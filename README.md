@@ -8,5 +8,5 @@ Link del proyecto: https://cesaralvrz.github.io/Tour-of-Heroes-Angular/dashboard
 
 
 
-![Screenshot1](https://github.com/cesaralvrz/AngularPlayground/blob/main/SS/ss1.png)
-![Screenshot2](https://github.com/cesaralvrz/AngularPlayground/blob/main/SS/ss2.png)
+![Screenshot1](https://github.com/cesaralvrz/Tour-of-Heroes-Angular/blob/main/ss/ss1.png)
+![Screenshot2](https://github.com/cesaralvrz/Tour-of-Heroes-Angular/blob/main/ss/ss2.png)
